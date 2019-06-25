@@ -27,17 +27,32 @@
 #color1 {
   background-color: #b4d7f6
 }
+#color1:hover {
+  background-color: #b4d7f6
+}
 #color2 {
   background-color: #528cb0
+}
+#color2:hover {
+  background-color: #b4d7f6
 }
 #color3 {
   background-color: #303b33
 }
+#color3:hover {
+  background-color: #b4d7f6
+}
 #color4 {
   background-color: #717f56
 }
+#color4:hover {
+  background-color: #b4d7f6
+}
 #color5 {
   background-color: #edf2f6
+}
+#color5:hover {
+  background-color: #b4d7f6
 }
 #pickacolor {
   height: 60vh;
