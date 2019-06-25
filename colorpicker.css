@@ -7,13 +7,14 @@
 #title {
   font-size: 4em;
   color: #528CB0;
-  font-family: 'Georgia';
+  font-family: 'Cursive';
   font-weight: bold;
 }
 
 .halfrow {
-  background-color: #B4D7F6
-  color: #528CB0;
+  background-color: #B4D7F6;
+  color: #757F56;
+  font-family: 'Cursive';
   margin: 40px;
   padding: 20px;
   text-align: center;
