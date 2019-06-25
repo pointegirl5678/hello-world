@@ -22,7 +22,6 @@
 
 .color {
   height: 25vh;
-  border 1px dashed black;
 }
 
 #color1 {
@@ -39,4 +38,11 @@
 }
 #color5 {
   background-color: #edf2f6
+}
+#pickacolor {
+  height: 60vh;
+  width: 100%;
+  padding-top: 30vh;
+  text-align: center;
+  background-color: #e0e0eb
 }

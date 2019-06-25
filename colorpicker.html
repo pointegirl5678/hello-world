@@ -14,6 +14,15 @@
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
+<script>
+ function randomColor() {
+   var red = Math.floor(Math.random() * 256);
+
+   alert(red);
+ }
+
+ </script>
+
 </head>
 
 <body>
@@ -61,6 +70,16 @@
       <div class="col-sm-2 color" id="color5">
      </div>
    </div>
+
+<dic class="row">
+  <div class="col-sm-12" id="pickacolor">
+    <button class="btn btn-default" onclick=randomColor()>
+     Get A Cool Random Color!
+   </buttom>
+   <br/><br/>
+   <p id="colorgenerated"></p>
+ </div>
+</div>
 
  </div>
 
