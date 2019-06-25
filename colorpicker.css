@@ -3,3 +3,10 @@
   height:90vh;
   object-fit: cover;
 }
+
+#title {
+  fomt-size: 4em;
+  color: #B4D7F6
+  font-family: 'Elephants In Cherry Trees';
+  font-weight: bold;
+}
