@@ -6,14 +6,15 @@
 
 #title {
   font-size: 4em;
-  color: #87b3dd;
+  color: #ae5730;
   font-family: 'Georgia';
   font-weight: bold;
 }
-
-.heading {
-  font-size: 4em;
+.halfrow {
+  background-color:#87b3dd;
   color: #2d3c59;
-  font family: 'Georgia';
-  font-weight: bold;
+  font-family: 'Georgia';
+  margin: 40px;
+  padding: 20px;
+  text-align: center;
 }
